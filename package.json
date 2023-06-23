@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  },
+  "name": "calculator",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "calculate two number",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jaimin",
+  "license": "ISC"
+}
